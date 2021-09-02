@@ -5,4 +5,4 @@ name: Install Nginx
 
   roles:
   - nginx
-© 2021 GitHub, Inc.
+
